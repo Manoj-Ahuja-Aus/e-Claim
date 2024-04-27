@@ -1,0 +1,7 @@
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.Api\obj\Debug\net6.0\ApiGateway.Api.csproj.AssemblyReference.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.Api\obj\Debug\net6.0\ApiGateway.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.Api\obj\Debug\net6.0\ApiGateway.Api.AssemblyInfoInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.Api\obj\Debug\net6.0\ApiGateway.Api.AssemblyInfo.cs
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.Api\obj\Debug\net6.0\ApiGateway.Api.csproj.CoreCompileInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.Api\obj\Debug\net6.0\ApiGateway.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.Api\obj\Debug\net6.0\ApiGateway.Api.MvcApplicationPartsAssemblyInfo.cache

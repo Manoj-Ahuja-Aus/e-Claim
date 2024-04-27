@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.Api", "ApiGateway.Api\ApiGateway.Api.csproj", "{C12BA74D-9A12-446B-A851-D40FC5F5EEE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.AuthorizerHandler", "ApiGateway.AuthorizerHandler\ApiGateway.AuthorizerHandler.csproj", "{21BC019B-2FA7-4F86-8702-0795A202E3A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.AuthorizerHandler.Tests", "ApiGateway.AuthorizerHandler.Tests\ApiGateway.AuthorizerHandler.Tests.csproj", "{2EBD2ECC-9909-4507-9340-EF30BFD96E39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.SSOAuthorizerHandler", "ApiGateway.SSOAuthorizerHandler\ApiGateway.SSOAuthorizerHandler.csproj", "{93B6F5BD-4607-43B9-8439-21EB85E541E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway.SSOAuthorizerHandler.Tests", "ApiGateway.SSOAuthorizerHandler.Tests\ApiGateway.SSOAuthorizerHandler.Tests.csproj", "{02F2773D-3C31-4BD4-8583-4A6894828ADF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{24281039-674B-458D-8E7A-E5672B5C79FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12BA74D-9A12-446B-A851-D40FC5F5EEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12BA74D-9A12-446B-A851-D40FC5F5EEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12BA74D-9A12-446B-A851-D40FC5F5EEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12BA74D-9A12-446B-A851-D40FC5F5EEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BC019B-2FA7-4F86-8702-0795A202E3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BC019B-2FA7-4F86-8702-0795A202E3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BC019B-2FA7-4F86-8702-0795A202E3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BC019B-2FA7-4F86-8702-0795A202E3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBD2ECC-9909-4507-9340-EF30BFD96E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBD2ECC-9909-4507-9340-EF30BFD96E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBD2ECC-9909-4507-9340-EF30BFD96E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBD2ECC-9909-4507-9340-EF30BFD96E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B6F5BD-4607-43B9-8439-21EB85E541E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B6F5BD-4607-43B9-8439-21EB85E541E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B6F5BD-4607-43B9-8439-21EB85E541E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B6F5BD-4607-43B9-8439-21EB85E541E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F2773D-3C31-4BD4-8583-4A6894828ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F2773D-3C31-4BD4-8583-4A6894828ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F2773D-3C31-4BD4-8583-4A6894828ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F2773D-3C31-4BD4-8583-4A6894828ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24281039-674B-458D-8E7A-E5672B5C79FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24281039-674B-458D-8E7A-E5672B5C79FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24281039-674B-458D-8E7A-E5672B5C79FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24281039-674B-458D-8E7A-E5672B5C79FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD7917A-C5DA-4A00-B490-EB0E006CA5AB}
+	EndGlobalSection
+EndGlobal

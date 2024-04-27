@@ -1,0 +1,17 @@
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\bin\Debug\net6.0\CustomerPortal.Biz.deps.json
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\bin\Debug\net6.0\CustomerPortal.Biz.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\bin\Debug\net6.0\CustomerPortal.Biz.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\bin\Debug\net6.0\CustomerPortal.Api.Models.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\bin\Debug\net6.0\CustomerPortal.Api.Persistence.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\bin\Debug\net6.0\CustomerPortal.Api.Models.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\bin\Debug\net6.0\CustomerPortal.Api.Persistence.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.csproj.AssemblyReference.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.AssemblyInfoInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.AssemblyInfo.cs
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.csproj.CoreCompileInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.csproj.CopyComplete
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\refint\CustomerPortal.Biz.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\CustomerPortal.Biz.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal\obj\Debug\net6.0\ref\CustomerPortal.Biz.dll

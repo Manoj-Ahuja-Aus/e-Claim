@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1WG253nWALVLh9vdM3RTHHigwIdRb8OSoTBHG8/VcSQ=",
+  "Source": "CustomerPortal.Api",
+  "BasePath": "_content/CustomerPortal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

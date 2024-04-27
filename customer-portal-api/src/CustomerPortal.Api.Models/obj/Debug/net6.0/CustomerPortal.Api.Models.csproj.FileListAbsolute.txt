@@ -1,0 +1,12 @@
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\bin\Debug\net6.0\CustomerPortal.Api.Models.deps.json
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\bin\Debug\net6.0\CustomerPortal.Api.Models.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\bin\Debug\net6.0\CustomerPortal.Api.Models.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\CustomerPortal.Api.Models.csproj.AssemblyReference.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\CustomerPortal.Api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\CustomerPortal.Api.Models.AssemblyInfoInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\CustomerPortal.Api.Models.AssemblyInfo.cs
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\CustomerPortal.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\CustomerPortal.Api.Models.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\refint\CustomerPortal.Api.Models.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\CustomerPortal.Api.Models.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Models\obj\Debug\net6.0\ref\CustomerPortal.Api.Models.dll

@@ -1,0 +1,82 @@
+<div class="container mt-5">
+  <h2>Customer Addresses</h2>
+
+  <div class="row mt-3">
+    <div class="col-md-4">
+      <form [formGroup]="editForm" (submit)="isEditMode ? updateCustomerAddress() : createCustomerAddress()">
+        <h4>{{isEditMode ? 'Edit Customer Address' : 'Add Customer Address'}}</h4>
+        <div class="form-group">
+          <label>ID</label>
+          <input type="text" class="form-control" formControlName="id" required>
+        </div>
+        <div class="form-group">
+          <label>Address Line 1</label>
+          <input type="text" class="form-control" formControlName="addressLine1" required>
+        </div>
+        <div class="form-group">
+          <label>Address Line 2</label>
+          <input type="text" class="form-control" formControlName="addressLine2">
+        </div>
+        <div class="form-group">
+          <label>City</label>
+          <input type="text" class="form-control" formControlName="city" required>
+        </div>
+        <div class="form-group">
+          <label>State</label>
+          <input type="text" class="form-control" formControlName="state">
+        </div>
+        <div class="form-group">
+          <label>Postal Code</label>
+          <input type="text" class="form-control" formControlName="postalCode" required>
+        </div>
+        <div class="form-group">
+          <label>Country</label>
+          <input type="text" class="form-control" formControlName="country" required>
+        </div>
+        <div class="form-group">
+          <button type="submit" class="btn btn-primary">{{isEditMode ? 'Update' : 'Add'}}</button>
+          <button type="button" class="btn btn-secondary ml-2" (click)="cancelEdit()">Cancel</button>
+        </div>
+      </form>
+    </div>
+    <div class="col-md-8">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Address Line 1</th>
+            <th>Address Line 2</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Postal Code</th>
+            <th>Country</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <ng-container *ngIf="customerAddresses.length">
+            <tr *ngFor="let customerAddress of customerAddresses">
+              <td>{{customerAddress.id}}</td>
+              <td>{{customerAddress.addressLine1}}</td>
+              <td>{{customerAddress.addressLine2}}</td>
+              <td>{{customerAddress.city}}</td>
+              <td>{{customerAddress.state}}</td>
+              <td>{{customerAddress.postalCode}}</td>
+              <td>{{customerAddress.country}}</td>
+              <td>
+                <button class="btn btn-sm btn-primary" (click)="editCustomerAddress(customerAddress)">Edit</button>
+                <button class="btn btn-sm btn-danger" (click)="deleteCustomerAddress(customerAddress.id)">Delete</button>
+              </td>
+            </tr>
+          </ng-container>
+          <ng-container *ngIf="!customerAddresses.length">
+            <tr>
+              <td colspan="7" class="text-center">No Addresses Found</td>
+            </tr>
+          </ng-container>
+        </tbody>
+      </table>
+       
+    </div>
+  </div>
+</div>

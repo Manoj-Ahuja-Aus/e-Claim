@@ -1,0 +1,17 @@
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\bin\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.deps.json
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\bin\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.runtimeconfig.json
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\bin\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\bin\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.csproj.AssemblyReference.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.AssemblyInfoInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.AssemblyInfo.cs
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.csproj.CoreCompileInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.csproj.CopyComplete
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\refint\ApiGateway.SSOAuthorizerHandler.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ApiGateway.SSOAuthorizerHandler.genruntimeconfig.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\api-gateway\src\ApiGateway\ApiGateway.SSOAuthorizerHandler\obj\Debug\net6.0\ref\ApiGateway.SSOAuthorizerHandler.dll

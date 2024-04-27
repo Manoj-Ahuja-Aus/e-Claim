@@ -1,0 +1,11 @@
+/* Set the font size and color of the title */
+h1 {
+    font-size: 3rem;
+    color: blue;
+  }
+  
+  /* Style the background color of the AppComponent */
+  .app-component {
+    background-color: #f2f2f2;
+  }
+  

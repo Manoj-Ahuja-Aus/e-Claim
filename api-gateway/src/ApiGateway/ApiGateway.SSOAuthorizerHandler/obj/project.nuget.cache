@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTJjxdhZsCPPmzeNAGAulR3hHrq+PXWa1LlkCzF++bxjGDE7W8knenzHfSNtghMkd0TL7YK6u4K1T391hh/keA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manojahuja\\Downloads\\SSE_Manoj Ahuja\\Final\\e-Claim System\\api-gateway\\src\\ApiGateway\\ApiGateway.SSOAuthorizerHandler\\ApiGateway.SSOAuthorizerHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manojahuja\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\manojahuja\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\manojahuja\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.26\\microsoft.netcore.app.crossgen2.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

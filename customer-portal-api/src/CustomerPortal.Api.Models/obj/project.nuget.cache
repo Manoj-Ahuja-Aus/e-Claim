@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPCzLFIY6OA2DqL8ckjjgxvbXh6l2DxHEpffWtCdFrUg3R6gQ3qFunIcCW4fSaEvi5hiwI/YWpFiuzJ6KilD4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manojahuja\\Downloads\\SSE_Manoj Ahuja\\Final\\e-Claim System\\customer-portal-api\\src\\CustomerPortal.Api.Models\\CustomerPortal.Api.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manojahuja\\.nuget\\packages\\awssdk.core\\3.7.106.16\\awssdk.core.3.7.106.16.nupkg.sha512",
+    "C:\\Users\\manojahuja\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.102.23\\awssdk.dynamodbv2.3.7.102.23.nupkg.sha512"
+  ],
+  "logs": []
+}

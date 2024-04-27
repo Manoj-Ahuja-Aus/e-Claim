@@ -1,0 +1,12 @@
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\bin\Debug\net6.0\CustomerPortal.Api.Persistence.deps.json
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\bin\Debug\net6.0\CustomerPortal.Api.Persistence.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\bin\Debug\net6.0\CustomerPortal.Api.Persistence.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\CustomerPortal.Api.Persistence.csproj.AssemblyReference.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\CustomerPortal.Api.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\CustomerPortal.Api.Persistence.AssemblyInfoInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\CustomerPortal.Api.Persistence.AssemblyInfo.cs
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\CustomerPortal.Api.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\CustomerPortal.Api.Persistence.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\refint\CustomerPortal.Api.Persistence.dll
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\CustomerPortal.Api.Persistence.pdb
+C:\Users\manojahuja\Downloads\SSE_Manoj Ahuja\Final\e-Claim System\customer-portal-api\src\CustomerPortal.Api.Persistence\obj\Debug\net6.0\ref\CustomerPortal.Api.Persistence.dll

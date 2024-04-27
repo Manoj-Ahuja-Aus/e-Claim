@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\eClaim.Web.UI",
+    "\\src\\eClaim.Web.UI\\src",
+    "\\src\\eClaim.Web.UI\\src\\app",
+    "\\src\\eClaim.Web.UI\\src\\app\\customer-portal",
+    "\\src\\eClaim.Web.UI\\src\\app\\customer-portal\\components",
+    "\\src\\eClaim.Web.UI\\src\\app\\customer-portal\\components\\customer-address-list",
+    "\\src\\eClaim.Web.UI\\src\\app\\customer-portal\\services"
+  ],
+  "SelectedNode": "\\src\\eClaim.Web.UI\\src\\app\\customer-portal\\components\\customer-address-list\\customer-address-list.component.ts",
+  "PreviewInSolutionExplorer": false
+}
